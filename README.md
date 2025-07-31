@@ -62,4 +62,8 @@ If this helps you, a star on the repo would be appreciated!
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/IshitaA3/Leetcode-75/tree/master/1146-greatest-common-divisor-of-strings) |
+## Array
+|  |
+| ------- |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/IshitaA3/Leetcode-75/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 <!---LeetCode Topics End-->
