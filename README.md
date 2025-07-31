@@ -46,3 +46,15 @@ If this helps you, a star on the repo would be appreciated!
 
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/IshitaA3/Leetcode-75/tree/master/1894-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/IshitaA3/Leetcode-75/tree/master/1894-merge-strings-alternately) |
+<!---LeetCode Topics End-->
