@@ -1,2 +1,48 @@
 # Leetcode-75
 Solutions to all LeetCode-75 problems in  C++
+
+# LeetCode-75 Solutions
+
+This repository contains my solutions to all problems in the [LeetCode-75 Study Plan](https://leetcode.com/study-plan/leetcode-75/).
+
+The focus is on providing clean and working code.
+
+---
+
+
+- File names are prefixed with the LeetCode problem number.
+- All solutions are written in **C++** and follow a consistent structure.
+- All solution files are located in the root directory.
+
+---
+
+## 🧰 Tools Used
+
+- Language: **C++**
+- IDE: **LeetCode Online Editor]**
+- Compiler: **g++** / **LeetCode’s built-in C++ compiler**
+
+---
+
+## 🚧 Work in Progress
+
+This repo is a work in progress as I go through the full LeetCode-75 plan.  
+Check back for updates, or feel free to fork and use it for your own tracking.
+
+---
+
+## 📬 Contact
+
+If you have questions or want to connect:  
+• **[GitHub](https://github.com/IshitaA3)** 
+• **[LinkedIn](https://www.linkedin.com/in/ishitaagarwal13/)**
+
+
+---
+
+## ⭐️ Support
+
+If this helps you, a star on the repo would be appreciated!
+
+
+
