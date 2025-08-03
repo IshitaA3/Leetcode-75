@@ -58,6 +58,7 @@ If this helps you, a star on the repo would be appreciated!
 | [0345-reverse-vowels-of-a-string](https://github.com/IshitaA3/Leetcode-75/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/IshitaA3/Leetcode-75/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/IshitaA3/Leetcode-75/tree/master/0443-string-compression) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/IshitaA3/Leetcode-75/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/IshitaA3/Leetcode-75/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -81,6 +82,7 @@ If this helps you, a star on the repo would be appreciated!
 | [0334-increasing-triplet-subsequence](https://github.com/IshitaA3/Leetcode-75/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/IshitaA3/Leetcode-75/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/IshitaA3/Leetcode-75/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/IshitaA3/Leetcode-75/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -95,4 +97,12 @@ If this helps you, a star on the repo would be appreciated!
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/IshitaA3/Leetcode-75/tree/master/0392-is-subsequence) |
+## Hash Table
+|  |
+| ------- |
+| [1798-max-number-of-k-sum-pairs](https://github.com/IshitaA3/Leetcode-75/tree/master/1798-max-number-of-k-sum-pairs) |
+## Sorting
+|  |
+| ------- |
+| [1798-max-number-of-k-sum-pairs](https://github.com/IshitaA3/Leetcode-75/tree/master/1798-max-number-of-k-sum-pairs) |
 <!---LeetCode Topics End-->
