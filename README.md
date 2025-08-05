@@ -92,6 +92,7 @@ If this helps you, a star on the repo would be appreciated!
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/IshitaA3/Leetcode-75/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/IshitaA3/Leetcode-75/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/IshitaA3/Leetcode-75/tree/master/1833-find-the-highest-altitude) |
+| [2428-equal-row-and-column-pairs](https://github.com/IshitaA3/Leetcode-75/tree/master/2428-equal-row-and-column-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -117,6 +118,7 @@ If this helps you, a star on the repo would be appreciated!
 | [1392-find-the-difference-of-two-arrays](https://github.com/IshitaA3/Leetcode-75/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/IshitaA3/Leetcode-75/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/IshitaA3/Leetcode-75/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2428-equal-row-and-column-pairs](https://github.com/IshitaA3/Leetcode-75/tree/master/2428-equal-row-and-column-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -137,4 +139,12 @@ If this helps you, a star on the repo would be appreciated!
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/IshitaA3/Leetcode-75/tree/master/1777-determine-if-two-strings-are-close) |
+## Matrix
+|  |
+| ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/IshitaA3/Leetcode-75/tree/master/2428-equal-row-and-column-pairs) |
+## Simulation
+|  |
+| ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/IshitaA3/Leetcode-75/tree/master/2428-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
