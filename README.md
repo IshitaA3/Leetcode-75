@@ -61,6 +61,7 @@ If this helps you, a star on the repo would be appreciated!
 | [1798-max-number-of-k-sum-pairs](https://github.com/IshitaA3/Leetcode-75/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/IshitaA3/Leetcode-75/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/IshitaA3/Leetcode-75/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/IshitaA3/Leetcode-75/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -158,6 +159,7 @@ If this helps you, a star on the repo would be appreciated!
 | ------- |
 | [0394-decode-string](https://github.com/IshitaA3/Leetcode-75/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/IshitaA3/Leetcode-75/tree/master/0735-asteroid-collision) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/IshitaA3/Leetcode-75/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/IshitaA3/Leetcode-75/tree/master/2470-removing-stars-from-a-string) |
 ## Recursion
 |  |
@@ -170,4 +172,5 @@ If this helps you, a star on the repo would be appreciated!
 | [0206-reverse-linked-list](https://github.com/IshitaA3/Leetcode-75/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/IshitaA3/Leetcode-75/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/IshitaA3/Leetcode-75/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/IshitaA3/Leetcode-75/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
