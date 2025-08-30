@@ -177,16 +177,20 @@ If this helps you, a star on the repo would be appreciated!
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/IshitaA3/Leetcode-75/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/IshitaA3/Leetcode-75/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/IshitaA3/Leetcode-75/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/IshitaA3/Leetcode-75/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/IshitaA3/Leetcode-75/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/IshitaA3/Leetcode-75/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/IshitaA3/Leetcode-75/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/IshitaA3/Leetcode-75/tree/master/1544-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
