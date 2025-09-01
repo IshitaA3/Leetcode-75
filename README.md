@@ -84,6 +84,7 @@ If this helps you, a star on the repo would be appreciated!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/IshitaA3/Leetcode-75/tree/master/0011-container-with-most-water) |
+| [0162-find-peak-element](https://github.com/IshitaA3/Leetcode-75/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/IshitaA3/Leetcode-75/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/IshitaA3/Leetcode-75/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/IshitaA3/Leetcode-75/tree/master/0334-increasing-triplet-subsequence) |
@@ -143,6 +144,7 @@ If this helps you, a star on the repo would be appreciated!
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/IshitaA3/Leetcode-75/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/IshitaA3/Leetcode-75/tree/master/0374-guess-number-higher-or-lower) |
 | [1046-max-consecutive-ones-iii](https://github.com/IshitaA3/Leetcode-75/tree/master/1046-max-consecutive-ones-iii) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/IshitaA3/Leetcode-75/tree/master/2392-successful-pairs-of-spells-and-potions) |
