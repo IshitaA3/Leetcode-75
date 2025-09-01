@@ -140,6 +140,7 @@ If this helps you, a star on the repo would be appreciated!
 ## Binary Search
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/IshitaA3/Leetcode-75/tree/master/0374-guess-number-higher-or-lower) |
 | [1046-max-consecutive-ones-iii](https://github.com/IshitaA3/Leetcode-75/tree/master/1046-max-consecutive-ones-iii) |
 ## Counting
 |  |
@@ -223,4 +224,8 @@ If this helps you, a star on the repo would be appreciated!
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/IshitaA3/Leetcode-75/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/IshitaA3/Leetcode-75/tree/master/0783-search-in-a-binary-search-tree) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/IshitaA3/Leetcode-75/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
