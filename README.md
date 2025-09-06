@@ -234,4 +234,16 @@ If this helps you, a star on the repo would be appreciated!
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/IshitaA3/Leetcode-75/tree/master/0374-guess-number-higher-or-lower) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/IshitaA3/Leetcode-75/tree/master/0969-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/IshitaA3/Leetcode-75/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/IshitaA3/Leetcode-75/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
