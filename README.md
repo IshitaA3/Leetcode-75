@@ -80,6 +80,7 @@ If this helps you, a star on the repo would be appreciated!
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/IshitaA3/Leetcode-75/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1236-n-th-tribonacci-number](https://github.com/IshitaA3/Leetcode-75/tree/master/1236-n-th-tribonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -118,6 +119,7 @@ If this helps you, a star on the repo would be appreciated!
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/IshitaA3/Leetcode-75/tree/master/0392-is-subsequence) |
+| [1236-n-th-tribonacci-number](https://github.com/IshitaA3/Leetcode-75/tree/master/1236-n-th-tribonacci-number) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/IshitaA3/Leetcode-75/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/IshitaA3/Leetcode-75/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
@@ -246,4 +248,8 @@ If this helps you, a star on the repo would be appreciated!
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/IshitaA3/Leetcode-75/tree/master/0969-number-of-recent-calls) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/IshitaA3/Leetcode-75/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
