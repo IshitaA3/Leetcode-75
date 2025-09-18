@@ -86,6 +86,7 @@ If this helps you, a star on the repo would be appreciated!
 | ------- |
 | [0011-container-with-most-water](https://github.com/IshitaA3/Leetcode-75/tree/master/0011-container-with-most-water) |
 | [0162-find-peak-element](https://github.com/IshitaA3/Leetcode-75/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/IshitaA3/Leetcode-75/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/IshitaA3/Leetcode-75/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/IshitaA3/Leetcode-75/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/IshitaA3/Leetcode-75/tree/master/0334-increasing-triplet-subsequence) |
@@ -119,6 +120,7 @@ If this helps you, a star on the repo would be appreciated!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/IshitaA3/Leetcode-75/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/IshitaA3/Leetcode-75/tree/master/0392-is-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/IshitaA3/Leetcode-75/tree/master/1236-n-th-tribonacci-number) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/IshitaA3/Leetcode-75/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
